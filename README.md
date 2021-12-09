@@ -7,7 +7,7 @@ Bookmarklets are bookmarks that have javascript code in them. In layman terms, t
 This is an example of a bookmarklet. Copy and paste this into a bookmark.
 
 ```javascript
-javascript:var url1= prompt("Please enter a website address", "https://", "hello"); window.open(url1);
+javascript:alert("This is a bookmarklet");
 ```
 Below are more useful bookmarklets. Please check them out!
 ## Bookmarklet List
